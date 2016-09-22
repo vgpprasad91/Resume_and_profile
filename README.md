@@ -1,2 +1,2 @@
-# Resume_and_profile
-This particular repository includes my resume and profile
+The Resume and Profile page of this github repository contains:
+1. Guruprasad Venkataraghavan Resume
