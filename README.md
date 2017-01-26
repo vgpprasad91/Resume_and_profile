@@ -1,5 +1,6 @@
 ## The Resume and Profile page of this github repository contains:
 * Resume
+* [LinkedIn](https://www.linkedin.com/in/vgpprasad) 
 
 ## My work experience:
 
