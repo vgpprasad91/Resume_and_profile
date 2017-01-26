@@ -1,5 +1,5 @@
 ## The Resume and Profile page of this github repository contains:
-* Resume
+* [Resume] (https://github.com/vgpprasad91/Resume_and_profile/blob/master/Guruprasad_Venkataraghavan_Resume-v1.0.pdf)
 * [LinkedIn](https://www.linkedin.com/in/vgpprasad) 
 
 ## My work experience:
